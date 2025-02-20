@@ -58,6 +58,7 @@
 .popular-foods__filter-btn:hover {
   background: var(--color-white);
   color: var(--primary-color);
+  cursor: pointer;
 }
 
 .popular-foods__catalogue {
